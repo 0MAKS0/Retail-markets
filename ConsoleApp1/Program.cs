@@ -6,7 +6,7 @@ using System.IO;
 using System.Net;
 using Newtonsoft.Json;
 
-namespace ConsoleApp1
+namespace TelegramBot
 
 {
     class Program
