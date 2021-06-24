@@ -13,7 +13,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            var ApiKey = "d864a56ba60c223cf96aae9c485e48f2";
+            var ApiKey = "";
             //var City = "Kazan";
             var url = $"https://apidata.mos.ru/v1/datasets/654/rows?api_key={ApiKey}";
 
